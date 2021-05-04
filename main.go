@@ -1,9 +1,7 @@
 package main
 
-package main
-
-import "fmt"
+import "github.com/royandri/kara-go/api"
 
 func main() {
-	fmt.Println("Hello world")
+	api.Run()
 }
